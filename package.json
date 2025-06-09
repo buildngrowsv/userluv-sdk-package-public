@@ -1,0 +1,15 @@
+{
+  "name": "userluv-sdk-ios",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Note: Convex dev server should be run from web portal repo only'",
+    "deploy": "echo 'Note: Deploy Convex from web portal repo only'"
+  },
+  "dependencies": {
+    "convex": "^1.0.0",
+    "@convex-dev/auth": "^0.6.0",
+    "@auth/core": "0.37.0"
+  }
+}
